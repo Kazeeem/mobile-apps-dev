@@ -8,6 +8,9 @@
       ],
       "@/assets/*": [
         "./assets/*"
+      ],
+      "@/global.css": [
+        "./global.css"
       ]
     }
   },
